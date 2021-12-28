@@ -7,5 +7,3 @@
 # ‘group_code_5’ is related to figure 5 
 # ‘group_code_6’ is related to figure 6 and supplementary figures 8,9 and 12
 # ‘group_code_7’ is related to figure 7 
-
-# Codes for luminance decoding model and signal transmission model are also provided for the extension of the current work.
